@@ -22,7 +22,7 @@ body {
 .card-container{
   width: 336px;
   border-radius: 10px;
-  box-shadow: 1px 1px 10px #6C727F;
+  box-shadow: 0px 30px 100px 0px rgba(17, 23, 41, 0.05);
   padding: 16px 16px 20px 16px;
   display: flex;
   flex-direction: column;
